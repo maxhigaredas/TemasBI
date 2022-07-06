@@ -128,7 +128,7 @@
                         "outline": false,
                         "autoSizeColumnWidth": true,
                         "alignment": "center",
-                        "fontSize": 12,
+                        "fontSize": 11,
                         "fontFamily": "Segoe UI",
                         "wordWrap": true,
                         "border": false,
