@@ -136,7 +136,7 @@
                     }
                 ],
                 "rowHeaders": [{
-                    "fontSize": 10,
+                    "fontSize": 11,
                     "fontFamily": "Segoe UI",
                     "fontColor": {
                         "solid": {
